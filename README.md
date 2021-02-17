@@ -44,7 +44,7 @@ Project Advisor: Ishie Eswar
 
 ---
 ### Contributing
-- Hidaparthi, Haasitha
+- Pidaparthi, Haasitha
 - Sun, Xiaohan 
 - Tsoi, Tsz Ching
 - Vuong, Steven
